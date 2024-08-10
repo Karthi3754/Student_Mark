@@ -1,1 +1,1 @@
-# Student_Mark
+# Calculate a Student Mark using GRID method
